@@ -1,2 +1,5 @@
-# zapscraper
-Web scraper escrito em python usando as  libs selenium e beatiful soup, a ideia é expandir o projeto para mais sites de vendas ( OLX,   e etc)
+# Zap Scraper
+
+Web scraper written in python using selenium and beatiful soup with the objective of aquiring real state brazilian market data. The ideia is to expand the project to more urls like: OLX and etc.  My first public git repo, critics and review are more than welcome!.
+
+
